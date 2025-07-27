@@ -13,7 +13,7 @@ Tired of Uncle Jameel's "expert" opinion on your car's value? Baffled by online 
 
 Why read about it when you can try it? Click the link below to chat with the Co-Pilot right now!
 
-### [➡️ Click Here to Launch the Live App ⬅️](https://usedcarpriceproject.streamlit.app/)
+### [➡️ Click Here to Launch the Live App ⬅️](https://usedcarpricechatbot.streamlit.app/)
 
 Watch as a simple, everyday sentence is transformed into a detailed, justified price analysis. It's like magic, but with more Python and less pulling a rabbit out of a hat.
 
